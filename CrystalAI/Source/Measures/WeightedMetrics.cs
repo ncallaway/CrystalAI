@@ -38,7 +38,7 @@ namespace Crystal {
     public readonly float PNormMin = 1.0f;
 
     /// <summary>
-    /// The minimum value for <see cref="T:Crystal.ConstrainedWeightedMetrics.PNorm"/>.
+    /// The maximum value for <see cref="T:Crystal.ConstrainedWeightedMetrics.PNorm"/>.
     /// </summary>
     public readonly float PNormMax = 10000.0f;
 
